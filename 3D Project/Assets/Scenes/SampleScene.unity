@@ -245,6 +245,7 @@ GameObject:
   - component: {fileID: 597965479}
   - component: {fileID: 597965478}
   - component: {fileID: 597965477}
+  - component: {fileID: 597965481}
   m_Layer: 0
   m_Name: Ground
   m_TagString: Untagged
@@ -346,6 +347,23 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &597965481
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 597965476}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee253e9868ac8f742b2a7ce6fbbd609f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Wekk2Demo
+  favNuber: 34
+  dumm: 
+  test: {x: 0, y: 0, z: 0}
+  testingGO: {fileID: 0}
+  camera: {fileID: 0}
 --- !u!1001 &1392136571
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -511,6 +529,7 @@ GameObject:
   - component: {fileID: 2146132049}
   - component: {fileID: 2146132048}
   - component: {fileID: 2146132047}
+  - component: {fileID: 2146132050}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -592,6 +611,23 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2146132050
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2146132046}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee253e9868ac8f742b2a7ce6fbbd609f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Wekk2Demo
+  favNuber: 34
+  dumm: 
+  test: {x: 0, y: 0, z: 0}
+  testingGO: {fileID: 597965476}
+  camera: {fileID: 2146132048}
 --- !u!1001 &7176807929302738270
 PrefabInstance:
   m_ObjectHideFlags: 0
