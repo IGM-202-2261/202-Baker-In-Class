@@ -299,6 +299,7 @@ GameObject:
   m_Component:
   - component: {fileID: 705507995}
   - component: {fileID: 705507994}
+  - component: {fileID: 705507996}
   m_Layer: 0
   m_Name: Directional Light
   m_TagString: Untagged
@@ -386,6 +387,24 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
+--- !u!114 &705507996
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 705507993}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67542652b83d70a4bad6e5bd4ed94b05, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Week2demo
+  myVar1: 
+  favNumber: 34
+  lightGO: {fileID: 0}
+  p_Light: {fileID: 705507994}
+  thing: {fileID: 0}
+  snowAxePref: {fileID: 5167550828959642422, guid: 7a27a8ecc463f024eb4baf5335e006fb, type: 3}
 --- !u!1001 &822560500
 PrefabInstance:
   m_ObjectHideFlags: 0
