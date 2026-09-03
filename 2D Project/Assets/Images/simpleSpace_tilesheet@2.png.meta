@@ -1,0 +1,1404 @@
+fileFormatVersion: 2
+guid: 7a6565991c588414fa2db6c30c9e983a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6724977011510391068
+    second: simpleSpace_tilesheet@2_0
+  - first:
+      213: 1258698336905250735
+    second: simpleSpace_tilesheet@2_1
+  - first:
+      213: -8094466107760753850
+    second: simpleSpace_tilesheet@2_2
+  - first:
+      213: -4360252992433555923
+    second: simpleSpace_tilesheet@2_3
+  - first:
+      213: -5926478734118462748
+    second: simpleSpace_tilesheet@2_4
+  - first:
+      213: -1541907359832631524
+    second: simpleSpace_tilesheet@2_5
+  - first:
+      213: 956246607185426422
+    second: simpleSpace_tilesheet@2_6
+  - first:
+      213: 7054736046923976008
+    second: simpleSpace_tilesheet@2_7
+  - first:
+      213: -5668287566611245133
+    second: simpleSpace_tilesheet@2_8
+  - first:
+      213: 5654556504019703124
+    second: simpleSpace_tilesheet@2_9
+  - first:
+      213: -6717783978940492743
+    second: simpleSpace_tilesheet@2_10
+  - first:
+      213: 5664285170205636442
+    second: simpleSpace_tilesheet@2_11
+  - first:
+      213: 8881427206023319523
+    second: simpleSpace_tilesheet@2_12
+  - first:
+      213: -3975290170696243003
+    second: simpleSpace_tilesheet@2_13
+  - first:
+      213: -6690884288088740916
+    second: simpleSpace_tilesheet@2_14
+  - first:
+      213: -3050462800139037434
+    second: simpleSpace_tilesheet@2_15
+  - first:
+      213: 2915690603978782905
+    second: simpleSpace_tilesheet@2_16
+  - first:
+      213: 4634163823759311236
+    second: simpleSpace_tilesheet@2_17
+  - first:
+      213: -7943054474274619872
+    second: simpleSpace_tilesheet@2_18
+  - first:
+      213: -5897575129586090212
+    second: simpleSpace_tilesheet@2_19
+  - first:
+      213: -5764914647280686300
+    second: simpleSpace_tilesheet@2_20
+  - first:
+      213: 2739820891739935408
+    second: simpleSpace_tilesheet@2_21
+  - first:
+      213: 1475420197990746304
+    second: simpleSpace_tilesheet@2_22
+  - first:
+      213: -4047436673555859008
+    second: simpleSpace_tilesheet@2_23
+  - first:
+      213: 7164931722427186836
+    second: simpleSpace_tilesheet@2_24
+  - first:
+      213: -6584425368374888142
+    second: simpleSpace_tilesheet@2_25
+  - first:
+      213: 6569454279096458265
+    second: simpleSpace_tilesheet@2_26
+  - first:
+      213: 3264519509510771036
+    second: simpleSpace_tilesheet@2_27
+  - first:
+      213: -4750776676473072768
+    second: simpleSpace_tilesheet@2_28
+  - first:
+      213: 5702332638335126910
+    second: simpleSpace_tilesheet@2_29
+  - first:
+      213: -935589817885742717
+    second: simpleSpace_tilesheet@2_30
+  - first:
+      213: 7470230206023608448
+    second: simpleSpace_tilesheet@2_31
+  - first:
+      213: 8436611838973274906
+    second: simpleSpace_tilesheet@2_32
+  - first:
+      213: -4803098668745932580
+    second: simpleSpace_tilesheet@2_33
+  - first:
+      213: 4430126257974792268
+    second: simpleSpace_tilesheet@2_34
+  - first:
+      213: -2560485892724108467
+    second: simpleSpace_tilesheet@2_35
+  - first:
+      213: 5346453237169402076
+    second: simpleSpace_tilesheet@2_36
+  - first:
+      213: 5126302734363613967
+    second: simpleSpace_tilesheet@2_37
+  - first:
+      213: 1826501697562822006
+    second: simpleSpace_tilesheet@2_38
+  - first:
+      213: 3682872753058494256
+    second: simpleSpace_tilesheet@2_39
+  - first:
+      213: 7076895573852519795
+    second: simpleSpace_tilesheet@2_40
+  - first:
+      213: -9218930080698272199
+    second: simpleSpace_tilesheet@2_41
+  - first:
+      213: 3127788079910742794
+    second: simpleSpace_tilesheet@2_42
+  - first:
+      213: 774465022303433352
+    second: simpleSpace_tilesheet@2_43
+  - first:
+      213: -3937566103000978318
+    second: simpleSpace_tilesheet@2_44
+  - first:
+      213: -4249004776793439197
+    second: simpleSpace_tilesheet@2_45
+  - first:
+      213: 1386386116378043869
+    second: simpleSpace_tilesheet@2_46
+  - first:
+      213: -8195532272931008859
+    second: simpleSpace_tilesheet@2_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: simpleSpace_tilesheet@2_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 679
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee414ad9051ca2a0800000000000000
+      internalID: -6724977011510391068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simpleSpace_tilesheet@2_1
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 671
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7cc92f77bc77110800000000000000
+      internalID: 1258698336905250735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simpleSpace_tilesheet@2_2
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 671
+        width: 98
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6434b7816fdaaaf80800000000000000
+      internalID: -8094466107760753850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simpleSpace_tilesheet@2_3
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 671
+        width: 98
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26f92741054d73c0800000000000000
+      internalID: -4360252992433555923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simpleSpace_tilesheet@2_4
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 655
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea56fbbdfae0cda0800000000000000
+      internalID: -5926478734118462748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simpleSpace_tilesheet@2_5
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 655
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c179d94fc6b0a9ae0800000000000000
+      internalID: -1541907359832631524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simpleSpace_tilesheet@2_6
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 655
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f7b5fa0935454d00800000000000000
+      internalID: 956246607185426422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simpleSpace_tilesheet@2_7
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 655
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d0c0d9e0577e160800000000000000
+      internalID: 7054736046923976008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simpleSpace_tilesheet@2_8
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 527
+        width: 66
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b79f537d723651b0800000000000000
+      internalID: -5668287566611245133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simpleSpace_tilesheet@2_9
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45518786e25097e40800000000000000
+      internalID: 5654556504019703124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simpleSpace_tilesheet@2_10
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 527
+        width: 66
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93411714013a5c2a0800000000000000
+      internalID: -6717783978940492743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simpleSpace_tilesheet@2_11
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57be940a559b9e40800000000000000
+      internalID: 5664285170205636442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simpleSpace_tilesheet@2_12
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef8281fcfa214b70800000000000000
+      internalID: 8881427206023319523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simpleSpace_tilesheet@2_13
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 543
+        width: 130
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c86c88d6aee4d8c0800000000000000
+      internalID: -3975290170696243003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simpleSpace_tilesheet@2_14
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb6a3790343523a0800000000000000
+      internalID: -6690884288088740916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simpleSpace_tilesheet@2_15
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6055b2dce349aa5d0800000000000000
+      internalID: -3050462800139037434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simpleSpace_tilesheet@2_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 399
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b87915082d967820800000000000000
+      internalID: 2915690603978782905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simpleSpace_tilesheet@2_17
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 389
+        width: 86
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481c322e17bdf4040800000000000000
+      internalID: 4634163823759311236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simpleSpace_tilesheet@2_18
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 395
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02eb84d2a0a94c190800000000000000
+      internalID: -7943054474274619872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simpleSpace_tilesheet@2_19
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 395
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1fb7d49aaa972ea0800000000000000
+      internalID: -5897575129586090212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simpleSpace_tilesheet@2_20
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 415
+        width: 98
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b63601ca8eeffa0800000000000000
+      internalID: -5764914647280686300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simpleSpace_tilesheet@2_21
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 399
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b25a58b59cc50620800000000000000
+      internalID: 2739820891739935408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simpleSpace_tilesheet@2_22
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 391
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8ccab5adeb97410800000000000000
+      internalID: 1475420197990746304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simpleSpace_tilesheet@2_23
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 387
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c970d52acd94d7c0800000000000000
+      internalID: -4047436673555859008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simpleSpace_tilesheet@2_24
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 271
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e333ba073fe6360800000000000000
+      internalID: 7164931722427186836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simpleSpace_tilesheet@2_25
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 287
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 239b1f3630c6f94a0800000000000000
+      internalID: -6584425368374888142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simpleSpace_tilesheet@2_26
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 271
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91cd6b14cd36b2b50800000000000000
+      internalID: 6569454279096458265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simpleSpace_tilesheet@2_27
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 287
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51d8be9237ed4d20800000000000000
+      internalID: 3264519509510771036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simpleSpace_tilesheet@2_28
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 303
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0839c9f88c9d11eb0800000000000000
+      internalID: -4750776676473072768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simpleSpace_tilesheet@2_29
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 271
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7dc4138251c22f40800000000000000
+      internalID: 5702332638335126910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simpleSpace_tilesheet@2_30
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 271
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389a271840e1403f0800000000000000
+      internalID: -935589817885742717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simpleSpace_tilesheet@2_31
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 303
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0882e6c1bc69ba760800000000000000
+      internalID: 7470230206023608448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simpleSpace_tilesheet@2_32
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 143
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b6bd9b4cdd41570800000000000000
+      internalID: 8436611838973274906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simpleSpace_tilesheet@2_33
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 159
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd04f3c6537f75db0800000000000000
+      internalID: -4803098668745932580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simpleSpace_tilesheet@2_34
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 143
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c40d7bc1c58fa7d30800000000000000
+      internalID: 4430126257974792268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simpleSpace_tilesheet@2_35
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 159
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43d7c785a3577cd0800000000000000
+      internalID: -2560485892724108467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simpleSpace_tilesheet@2_36
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 139
+        width: 106
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd038b974ea623a40800000000000000
+      internalID: 5346453237169402076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simpleSpace_tilesheet@2_37
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 139
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b5bd43d29442740800000000000000
+      internalID: 5126302734363613967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simpleSpace_tilesheet@2_38
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 155
+        width: 106
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67541e0ed99095910800000000000000
+      internalID: 1826501697562822006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simpleSpace_tilesheet@2_39
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 155
+        width: 106
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 037340791413c1330800000000000000
+      internalID: 3682872753058494256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simpleSpace_tilesheet@2_40
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 15
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d7308870f263260800000000000000
+      internalID: 7076895573852519795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simpleSpace_tilesheet@2_41
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 31
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936f0d28fe7cf0080800000000000000
+      internalID: -9218930080698272199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simpleSpace_tilesheet@2_42
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 15
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0be7cbdfa2286b20800000000000000
+      internalID: 3127788079910742794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simpleSpace_tilesheet@2_43
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 31
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8827c51a5d37fba00800000000000000
+      internalID: 774465022303433352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simpleSpace_tilesheet@2_44
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 15
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ce10fcd74fa59c0800000000000000
+      internalID: -3937566103000978318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simpleSpace_tilesheet@2_45
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 31
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3240a4eeaa08805c0800000000000000
+      internalID: -4249004776793439197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simpleSpace_tilesheet@2_46
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 0
+        width: 66
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd52f34d3de6d3310800000000000000
+      internalID: 1386386116378043869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simpleSpace_tilesheet@2_47
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 0
+        width: 66
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae82bec1de934e80800000000000000
+      internalID: -8195532272931008859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      simpleSpace_tilesheet@2_0: -6724977011510391068
+      simpleSpace_tilesheet@2_1: 1258698336905250735
+      simpleSpace_tilesheet@2_10: -6717783978940492743
+      simpleSpace_tilesheet@2_11: 5664285170205636442
+      simpleSpace_tilesheet@2_12: 8881427206023319523
+      simpleSpace_tilesheet@2_13: -3975290170696243003
+      simpleSpace_tilesheet@2_14: -6690884288088740916
+      simpleSpace_tilesheet@2_15: -3050462800139037434
+      simpleSpace_tilesheet@2_16: 2915690603978782905
+      simpleSpace_tilesheet@2_17: 4634163823759311236
+      simpleSpace_tilesheet@2_18: -7943054474274619872
+      simpleSpace_tilesheet@2_19: -5897575129586090212
+      simpleSpace_tilesheet@2_2: -8094466107760753850
+      simpleSpace_tilesheet@2_20: -5764914647280686300
+      simpleSpace_tilesheet@2_21: 2739820891739935408
+      simpleSpace_tilesheet@2_22: 1475420197990746304
+      simpleSpace_tilesheet@2_23: -4047436673555859008
+      simpleSpace_tilesheet@2_24: 7164931722427186836
+      simpleSpace_tilesheet@2_25: -6584425368374888142
+      simpleSpace_tilesheet@2_26: 6569454279096458265
+      simpleSpace_tilesheet@2_27: 3264519509510771036
+      simpleSpace_tilesheet@2_28: -4750776676473072768
+      simpleSpace_tilesheet@2_29: 5702332638335126910
+      simpleSpace_tilesheet@2_3: -4360252992433555923
+      simpleSpace_tilesheet@2_30: -935589817885742717
+      simpleSpace_tilesheet@2_31: 7470230206023608448
+      simpleSpace_tilesheet@2_32: 8436611838973274906
+      simpleSpace_tilesheet@2_33: -4803098668745932580
+      simpleSpace_tilesheet@2_34: 4430126257974792268
+      simpleSpace_tilesheet@2_35: -2560485892724108467
+      simpleSpace_tilesheet@2_36: 5346453237169402076
+      simpleSpace_tilesheet@2_37: 5126302734363613967
+      simpleSpace_tilesheet@2_38: 1826501697562822006
+      simpleSpace_tilesheet@2_39: 3682872753058494256
+      simpleSpace_tilesheet@2_4: -5926478734118462748
+      simpleSpace_tilesheet@2_40: 7076895573852519795
+      simpleSpace_tilesheet@2_41: -9218930080698272199
+      simpleSpace_tilesheet@2_42: 3127788079910742794
+      simpleSpace_tilesheet@2_43: 774465022303433352
+      simpleSpace_tilesheet@2_44: -3937566103000978318
+      simpleSpace_tilesheet@2_45: -4249004776793439197
+      simpleSpace_tilesheet@2_46: 1386386116378043869
+      simpleSpace_tilesheet@2_47: -8195532272931008859
+      simpleSpace_tilesheet@2_5: -1541907359832631524
+      simpleSpace_tilesheet@2_6: 956246607185426422
+      simpleSpace_tilesheet@2_7: 7054736046923976008
+      simpleSpace_tilesheet@2_8: -5668287566611245133
+      simpleSpace_tilesheet@2_9: 5654556504019703124
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
