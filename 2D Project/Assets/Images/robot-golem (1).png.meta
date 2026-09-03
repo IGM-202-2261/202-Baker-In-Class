@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: 11913bca875c8cd498a744442a4961ae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9116350588713009720
+    second: robot-golem (1)_0
+  - first:
+      213: -8728325346213128350
+    second: robot-golem (1)_1
+  - first:
+      213: 353814641343780023
+    second: robot-golem (1)_2
+  - first:
+      213: 2347709290337085222
+    second: robot-golem (1)_3
+  - first:
+      213: -8742396980072927127
+    second: robot-golem (1)_4
+  - first:
+      213: 1527022612683682702
+    second: robot-golem (1)_5
+  - first:
+      213: -5127504604697750744
+    second: robot-golem (1)_6
+  - first:
+      213: -6470207459783236466
+    second: robot-golem (1)_7
+  - first:
+      213: -2586709402994642185
+    second: robot-golem (1)_8
+  - first:
+      213: -5032448957145484199
+    second: robot-golem (1)_9
+  - first:
+      213: -6784598114384417698
+    second: robot-golem (1)_10
+  - first:
+      213: 8180392873014052630
+    second: robot-golem (1)_11
+  - first:
+      213: -5260296553509549885
+    second: robot-golem (1)_12
+  - first:
+      213: -7623657072533639654
+    second: robot-golem (1)_13
+  - first:
+      213: 2582975814454789687
+    second: robot-golem (1)_14
+  - first:
+      213: -8586665179357880641
+    second: robot-golem (1)_15
+  - first:
+      213: 6343045437966279493
+    second: robot-golem (1)_16
+  - first:
+      213: 6026135502762619651
+    second: robot-golem (1)_17
+  - first:
+      213: 2681543119862081484
+    second: robot-golem (1)_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 600
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: robot-golem (1)_0
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 363
+        width: 120
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83289285f88c38e70800000000000000
+      internalID: 9116350588713009720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-golem (1)_1
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 442
+        width: 121
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2679dee9752ced680800000000000000
+      internalID: -8728325346213128350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-golem (1)_2
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 363
+        width: 120
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4d0adaa8009e400800000000000000
+      internalID: 353814641343780023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-golem (1)_3
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 374
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6272d6e292db49020800000000000000
+      internalID: 2347709290337085222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-golem (1)_4
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 374
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9603e4d0444cca680800000000000000
+      internalID: -8742396980072927127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-golem (1)_5
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 328
+        width: 51
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e83fff8c9f2113510800000000000000
+      internalID: 1527022612683682702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-golem (1)_6
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 299
+        width: 158
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8239fcc8ab177d8b0800000000000000
+      internalID: -5127504604697750744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-golem (1)_7
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 328
+        width: 51
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84a98098943536a0800000000000000
+      internalID: -6470207459783236466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-golem (1)_8
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 192
+        width: 95
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f27751c0892a1cd0800000000000000
+      internalID: -2586709402994642185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-golem (1)_9
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 180
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 954fe072656292ab0800000000000000
+      internalID: -5032448957145484199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-golem (1)_10
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 232
+        width: 74
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ce45816f348d1a0800000000000000
+      internalID: -6784598114384417698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-golem (1)_11
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 180
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617c327f9f7968170800000000000000
+      internalID: 8180392873014052630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-golem (1)_12
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 192
+        width: 94
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c80ad2a72caff6b0800000000000000
+      internalID: -5260296553509549885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-golem (1)_13
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 142
+        width: 59
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1eec3ec844533690800000000000000
+      internalID: -7623657072533639654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-golem (1)_14
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 19
+        width: 113
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736c00c61d298d320800000000000000
+      internalID: 2582975814454789687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-golem (1)_15
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 19
+        width: 113
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe5823738906d880800000000000000
+      internalID: -8586665179357880641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-golem (1)_16
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 142
+        width: 59
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543642c0836070850800000000000000
+      internalID: 6343045437966279493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-golem (1)_17
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 19
+        width: 84
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303398adf4221a350800000000000000
+      internalID: 6026135502762619651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-golem (1)_18
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 19
+        width: 83
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7a5459241c63520800000000000000
+      internalID: 2681543119862081484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      robot-golem (1)_0: 9116350588713009720
+      robot-golem (1)_1: -8728325346213128350
+      robot-golem (1)_10: -6784598114384417698
+      robot-golem (1)_11: 8180392873014052630
+      robot-golem (1)_12: -5260296553509549885
+      robot-golem (1)_13: -7623657072533639654
+      robot-golem (1)_14: 2582975814454789687
+      robot-golem (1)_15: -8586665179357880641
+      robot-golem (1)_16: 6343045437966279493
+      robot-golem (1)_17: 6026135502762619651
+      robot-golem (1)_18: 2681543119862081484
+      robot-golem (1)_2: 353814641343780023
+      robot-golem (1)_3: 2347709290337085222
+      robot-golem (1)_4: -8742396980072927127
+      robot-golem (1)_5: 1527022612683682702
+      robot-golem (1)_6: -5127504604697750744
+      robot-golem (1)_7: -6470207459783236466
+      robot-golem (1)_8: -2586709402994642185
+      robot-golem (1)_9: -5032448957145484199
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
