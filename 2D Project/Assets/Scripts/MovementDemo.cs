@@ -24,4 +24,13 @@ public class MovementDemo : MonoBehaviour
     {
         playerSpeed = 0;
     }
+
+    private void OnDrawGizmosSelected()
+    {
+        Gizmos.color = Color.rebeccaPurple;
+
+        //Gizmos.DrawWireSphere(transform.position, playerSpeed);
+
+        Gizmos.DrawRay(transform.position, movement);
+    }
 }
