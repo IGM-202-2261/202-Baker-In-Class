@@ -23,4 +23,13 @@ public class Movement : MonoBehaviour
 
         
     }
+
+    private void OnDrawGizmosSelected()
+    {
+        Gizmos.color = Color.gainsboro;
+
+        //Gizmos.DrawWireSphere(transform.position, playerSpeed);
+
+        Gizmos.DrawRay(transform.position, movement * playerSpeed);
+    }
 }
