@@ -6,10 +6,14 @@ public abstract class Agent : MonoBehaviour
 
     public float maxSpeed = 5f, maxForce = 3f;
 
+    protected Vector2 screenHalfSize;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        
+        screenHalfSize.y = Camera.main.orthographicSize;
+
+        screenHalfSize.x = screenHalfSize.y * Camera.main.aspect;
     }
 
     // Update is called once per frame
@@ -45,10 +49,10 @@ public abstract class Agent : MonoBehaviour
         Vector3 force = Vector3.zero;
 
         //  Check if out of bounds
-        if(transform.position.x < -3f ||
-            transform.position.x > 3f ||
-            transform.position.y > 2f ||
-            transform.position.y < -2f)
+        if(transform.position.x < -screenHalfSize.x ||
+            transform.position.x > screenHalfSize.x ||
+            transform.position.y > screenHalfSize.y ||
+            transform.position.y < -screenHalfSize.y)
         {
             force = Seek(Vector3.zero);
         }
