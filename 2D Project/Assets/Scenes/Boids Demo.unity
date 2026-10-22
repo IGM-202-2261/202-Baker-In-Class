@@ -332,7 +332,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3da4fb853e4dddd4a931db97ad755eec, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Seeker
-  maxSpeed: 5
+  maxSpeed: 50
+  maxForce: 30
   target: {fileID: 420155516}
 --- !u!212 &1152355978
 SpriteRenderer:

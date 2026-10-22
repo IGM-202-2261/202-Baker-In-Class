@@ -2,14 +2,17 @@ using UnityEngine;
 
 public abstract class Agent : MonoBehaviour
 {
-    protected Vector3 position, velocity, acceleration;
+    protected Vector3 position, velocity, acceleration, totalForce;
 
-    public float maxSpeed;
+    public float maxSpeed, maxForce;
+    protected Vector2 screenHalfSize;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        
+        screenHalfSize.y = Camera.main.orthographicSize;
+
+        screenHalfSize.x = screenHalfSize.y * Camera.main.aspect;
     }
 
     // Update is called once per frame
@@ -24,6 +27,9 @@ public abstract class Agent : MonoBehaviour
         // Add Steering force to Acceleration
         acceleration = CalcSteering();
 
+        //  Clamp Forces
+        acceleration = Vector3.ClampMagnitude(acceleration, maxForce);
+
         // Update Velocity with current Acceleration
         velocity += acceleration * Time.deltaTime;
 
@@ -33,6 +39,27 @@ public abstract class Agent : MonoBehaviour
     }
 
     protected abstract Vector3 CalcSteering();
+
+    public Vector3 CalcFuturePosition(float time)
+    {
+        return transform.position + (velocity * time);
+    }
+
+    public Vector3 CheckBounds(float padding)
+    {
+        Vector3 force = Vector3.zero;
+
+        //  Check if out of bounds
+        if (transform.position.x < -screenHalfSize.x ||
+            transform.position.x > screenHalfSize.x ||
+            transform.position.y > screenHalfSize.y ||
+            transform.position.y < -screenHalfSize.y)
+        {
+            force = Seek(Vector3.zero);
+        }
+
+        return force;
+    }
 
     public Vector3 Seek(Vector3 targetPos)
     {
@@ -52,6 +79,11 @@ public abstract class Agent : MonoBehaviour
     public Vector3 Seek(GameObject target)
     {
         return Seek(target.transform.position);
+    }
+
+    public Vector3 Pursue(Agent target, float time)
+    {
+        return Seek(target.CalcFuturePosition(time));
     }
 
     public Vector3 Flee(Vector3 targetPos)
