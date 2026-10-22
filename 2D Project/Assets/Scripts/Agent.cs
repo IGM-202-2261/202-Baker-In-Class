@@ -80,6 +80,11 @@ public abstract class Agent : MonoBehaviour
         return Seek(targetA.transform.position);
     }
 
+    public Vector3 Pursue(Agent target, float time)
+    {
+        return Seek(target.CalcFuturePosition(time));
+    }
+
     public Vector3 Flee(Vector3 targetPos)
     {
         // Calculate desired velocity
