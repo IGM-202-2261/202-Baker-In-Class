@@ -2,9 +2,9 @@ using UnityEngine;
 
 public abstract class Agent : MonoBehaviour
 {
-    protected Vector3 velocity, acceleration, position;
+    protected Vector3 velocity, acceleration, position, totalForce;
 
-    public float maxSpeed = 5f;
+    public float maxSpeed = 5f, maxForce = 3f;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -22,6 +22,9 @@ public abstract class Agent : MonoBehaviour
         // Add Steering force to Acceleration
         acceleration += CalcSteering();
 
+        //  Clamp forces
+        acceleration = Vector3.ClampMagnitude(acceleration, maxForce);
+
         // Update Velocity with current Acceleration
         velocity += acceleration * Time.deltaTime;
 
@@ -31,6 +34,27 @@ public abstract class Agent : MonoBehaviour
     }
 
     protected abstract Vector3 CalcSteering();
+
+    public Vector3 CalcFuturePosition(float time)
+    {
+        return transform.position + (velocity * time);
+    }
+
+    public Vector3 CheckBounds(float padding)
+    {
+        Vector3 force = Vector3.zero;
+
+        //  Check if out of bounds
+        if(transform.position.x < -3f ||
+            transform.position.x > 3f ||
+            transform.position.y > 2f ||
+            transform.position.y < -2f)
+        {
+            force = Seek(Vector3.zero);
+        }
+
+        return force;
+    }
 
     public Vector3 Seek(Vector3 targetPos)
     {
@@ -66,4 +90,6 @@ public abstract class Agent : MonoBehaviour
         // Return seek steering force
         return seekingForce;
     }
+
+
 }
