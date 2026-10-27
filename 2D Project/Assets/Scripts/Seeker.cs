@@ -8,7 +8,9 @@ public class Seeker : Agent
 
     protected override Vector3 CalcSteering()
     {
-        totalForce = Vector3.zero;
+        target = FindNearest().gameObject;
+
+        totalForce = new Vector3(Random.value, Random.value, 0);
 
         totalForce += Seek(target) * seekWeight;
 

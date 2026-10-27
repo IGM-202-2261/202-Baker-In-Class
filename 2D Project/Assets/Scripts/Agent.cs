@@ -1,3 +1,4 @@
+using Unity.Mathematics;
 using UnityEngine;
 
 public abstract class Agent : MonoBehaviour
@@ -104,10 +105,18 @@ public abstract class Agent : MonoBehaviour
 
     public Agent FindNearest()
     {
+        float distance = math.INFINITY;
+        Agent tempAgent = null;
+
         foreach (Agent a in agentSO.agents) {
-            return a;
+            if((transform.position - a.transform.position).magnitude < distance && a != this)
+            {
+                distance = (transform.position - a.transform.position).magnitude;
+
+                tempAgent = a;
+            }
         }
 
-        return null;
+        return tempAgent;
     }
 }

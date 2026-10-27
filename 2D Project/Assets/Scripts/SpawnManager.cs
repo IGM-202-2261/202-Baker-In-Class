@@ -8,7 +8,7 @@ public class SpawnManager : MonoBehaviour
 
     public Agent clone;
 
-    int spawnCount = 100;
+    public int spawnCount = 100;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
