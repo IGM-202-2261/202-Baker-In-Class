@@ -8,6 +8,8 @@ public abstract class Agent : MonoBehaviour
 
     protected Vector2 screenHalfSize;
 
+    public AgentSO agentSO;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -100,5 +102,12 @@ public abstract class Agent : MonoBehaviour
         return seekingForce;
     }
 
+    public Agent FindNearest()
+    {
+        foreach (Agent a in agentSO.agents) {
+            return a;
+        }
 
+        return null;
+    }
 }
