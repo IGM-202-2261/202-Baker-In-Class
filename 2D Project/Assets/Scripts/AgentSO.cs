@@ -6,6 +6,8 @@ public class AgentSO : ScriptableObject
 {
     public List<Agent> agents;
 
+    public Agent itPlayer;
+
     public SpawnManager spawnManager;
 
 }

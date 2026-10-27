@@ -30,5 +30,8 @@ public class SpawnManager : MonoBehaviour
 
             agentSO.agents.Add(clone);
         }
+
+        ((TagPlayer)clone).currentState = PlayerState.It;
+        agentSO.itPlayer = clone;
     }
 }
