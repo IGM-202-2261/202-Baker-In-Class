@@ -151,6 +151,7 @@ MonoBehaviour:
   agentSO: {fileID: 11400000, guid: db68d6f17ab5d854399569e15385f7f5, type: 2}
   prefab: {fileID: 3849981984636456273, guid: 4c4b1d3f638317e44aac5d3ead287857, type: 3}
   clone: {fileID: 0}
+  spawnCount: 500
 --- !u!4 &54856006
 Transform:
   m_ObjectHideFlags: 0
