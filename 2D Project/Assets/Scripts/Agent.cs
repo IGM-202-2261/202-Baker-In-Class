@@ -7,6 +7,8 @@ public abstract class Agent : MonoBehaviour
     public float maxSpeed, maxForce;
     protected Vector2 screenHalfSize;
 
+    public bool useForce = true;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -22,8 +24,6 @@ public abstract class Agent : MonoBehaviour
         acceleration = Vector3.zero;
 
         // Calculate a new Steering force vector
-        //steeringForce = CalcSteering();
-
         // Add Steering force to Acceleration
         acceleration = CalcSteering();
 
@@ -31,7 +31,14 @@ public abstract class Agent : MonoBehaviour
         acceleration = Vector3.ClampMagnitude(acceleration, maxForce);
 
         // Update Velocity with current Acceleration
-        velocity += acceleration * Time.deltaTime;
+        if (useForce)
+        {
+            velocity += acceleration * Time.deltaTime;
+        }
+        else
+        {
+            velocity = acceleration;
+        }
 
         //  Move the agent with Velocity
         transform.position += velocity * Time.deltaTime;
