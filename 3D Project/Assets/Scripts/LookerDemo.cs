@@ -1,39 +1,30 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
 
-public class LookerDemo : MonoBehaviour
+public class Looker : MonoBehaviour
 {
-    public float turnSpeed = 5f;
+    public float lookSpeed = 30f;
+
+    public Camera playerCam;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        
+
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+
     }
 
-    public void OnPlayerRotate(InputAction.CallbackContext context)
+    public void OnPlayerLook(InputAction.CallbackContext context)
     {
-        Vector2 lookInput = context.ReadValue<Vector2>() * turnSpeed * Time.deltaTime;
+        Vector3 input = context.ReadValue<Vector2>() * Time.deltaTime * lookSpeed;
 
-        Quaternion newRot = Quaternion.Euler(lookInput.y, lookInput.x, 0f);
+        transform.rotation = transform.rotation * Quaternion.Euler(0f, input.x, 0f);
 
-        //transform.rotation = transform.rotation * newRot;
-        if (lookInput.x != 0f)
-        {
-            transform.Rotate(0f, lookInput.x * turnSpeed * Time.deltaTime, 0f);
-        }
-
-        if (lookInput.y != 0f)
-        {
-            //lookInput.y *= yLookInversion ? 1f : -1f;
-
-            playerCam.transform.Rotate(lookInput.y * turnSpeed * Time.deltaTime, 0f, 0f);
-        }
+        playerCam.transform.Rotate(input.y, 0f, 0f);
     }
 }
