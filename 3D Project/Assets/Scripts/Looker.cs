@@ -8,15 +8,10 @@ public class Looker : MonoBehaviour
     public Camera playerCam;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    private void Start()
     {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
+        Cursor.lockState = CursorLockMode.Locked;
+        Cursor.visible = false;
     }
 
     public void OnPlayerLook(InputAction.CallbackContext context)
@@ -25,6 +20,6 @@ public class Looker : MonoBehaviour
 
         transform.rotation = transform.rotation * Quaternion.Euler(0f, input.x, 0f);
 
-        playerCam.transform.Rotate(-input.y, 0f, 0f);
+        playerCam.transform.Rotate(input.y, 0f, 0f);
     }
 }

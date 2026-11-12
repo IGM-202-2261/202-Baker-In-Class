@@ -436,7 +436,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 60c44de33eba82440a3ed7d4c4353ea6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Looker
-  lookSpeed: 30
+  lookSpeed: 10
   playerCam: {fileID: 166123656}
 --- !u!1 &890936796
 GameObject:
