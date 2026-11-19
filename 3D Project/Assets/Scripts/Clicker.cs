@@ -15,7 +15,8 @@ public class Clicker : MonoBehaviour
         {
             if(Physics.Raycast(fireRay, out hit, Mathf.Infinity, hitLayer))
             {
-                hit.transform.localScale = new Vector3(Random.Range(0.5f, 2f), Random.Range(0.5f, 2f), Random.Range(0.5f, 2f));
+                hit.transform.SetParent(transform, false);
+                //hit.transform.localScale = new Vector3(Random.Range(0.5f, 2f), Random.Range(0.5f, 2f), Random.Range(0.5f, 2f));
             }
         }
     }
